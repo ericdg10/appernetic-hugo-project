@@ -1,9 +1,9 @@
 # Site settings (baseurl must end with a trailing slash!)
-baseurl = "https://www.example.com/"
+baseurl = "https://ericdg10.github.io/"
 languageCode = "en-us"
-title = "Grid Side"
+title = "Habib"
 theme = "grid-side"
-copyright = "Copyright &#169; by Your Name"
+copyright = "Copyright &#169; by ericdg"
 
 # The theme uses pagination for post, gallery, and project listings.
 #paginate = 12

@@ -1,6 +1,8 @@
 ---
 title: "EersteArtikel"
-date: 2017-12-13T21:28:46Z
+date: 2017-11-30T21:37:26Z
+draft: true
 ---
 
-eerste artikel
+
+eerste artikel

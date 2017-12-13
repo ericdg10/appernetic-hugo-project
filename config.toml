@@ -57,13 +57,13 @@ SectionPagesMenu = "Main"
     [Params.Header]
 
         # This is optional
-        name = "Your Name"
+        name = "Eric"
 
         # This is optional
-        description = "Your Description"
+        description = "testblog"
 
         # This is optional
-        email = "your@email.com"
+        email = "eric.degroote@zaclys.net"
 
         # Not providing this results in a color being used
         image = "/img/banner.jpg"
